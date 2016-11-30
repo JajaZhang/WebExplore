@@ -25,3 +25,9 @@ C
 # Motivation:
 
 The project is originally from an operating system class, but it is a very interesting experience learning and writing this simple brower.
+
+# Instruction:
+
+1. Typing "make" in terminal in current working directory of the project files is suffucient to compile the program.
+2. Typing ./browser in terminal in current working directory would open the program (after the program was made).
+3. A Tab will have tab number with the first avaliable index in the tab_pid_array. For example, if tab 1 and 2 are opened, and then tab 1 is closed, when user click new tab button, tab 1 should be created again.
